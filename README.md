@@ -1,4 +1,5 @@
 Final Portfolio Project - Mumin Y.
+
 👋 About Me  
 Hi, I’m Mumin Y., a student developer with a passion for technology, design, and human-centered innovation. I’m graduating from Mt. Eden High School and plan to pursue a career that blends hands-on work, business, and creativity. This year, I stepped into the world of web development and discovered how much I enjoy building interactive projects that solve real problems and express who I am.
 
