@@ -1,9 +1,13 @@
 body {
-  font-family: 'Times New Roman', serif;
+  font-family: "Inter", sans-serif;
+
   margin: 0;
   background-color: #f0f0f0;
   color: #222;
   line-height: 1;
+}
+p{
+  line-height: 1.75rem;
 }
 a {
   text-decoration: none;
@@ -15,7 +19,8 @@ a:hover{
 }
 
 .navbar{
-  background-color: #ffd700;
+  background-color: #212529;
+
   padding: 12px 20px;
   display: flex;
   justify-content: center;
@@ -26,6 +31,7 @@ a:hover{
 .navbar a{
   font-size: 1rem;
 }
+
 
 h1, h2, h3{
   border: 3px solid blue;
@@ -43,12 +49,20 @@ h1 {
   border: 5px solid black;
   margin-top: 20px;
   color: white;
-  background-color: #ffd700;
+  background-color: #343a40;
+    font-family: "Inter", sans-serif;
   padding: 1rem 2rem;
   font-size: 2.2rem;
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
+  font-weight: 600;
+}
+h2{
+  background-color: #343a40;
+  color: #f8f9fa;
+  padding: 1rem;
+  font-family: "";
 }
 
 #home-image{
@@ -60,7 +74,7 @@ h1 {
 }
 
 section {
-  max-width: 900px;
+  max-width: 700px;
   margin: 40px auto;
   background: white;
   padding: 25px 30px;
@@ -170,4 +184,10 @@ footer {
   font-size: 1rem;
   margin-top: 50px;
 }
+
+a{
+  color: white;
+  padding: 1rem;
+}
+
 
