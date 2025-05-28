@@ -26,5 +26,5 @@ Converts user-inputted weight in kilograms to grams, pounds, and ounces in real 
 A playful project that changes the background color and displays the hex code when the user clicks a button.
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/muminyusufi/final-project-portfolio)
+[- [GitHub Repository](https://github.com/muminyusufi/final-project-portfolio)](https://muyusufi.github.io/Final-Project-Mumin/)
 - [Live Site (GitHub Pages)](https://muminyusufi.github.io/final-project-portfolio/)
