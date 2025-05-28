@@ -1,26 +1,27 @@
 body{
   font-family: "Inter", sans-serif;
-
   margin: 0;
   background-color: #f0f0f0;
   color: #222;
   line-height: 1;
 }
+
 p{
   line-height: 1.75rem;
 }
+
 a {
   text-decoration: none;
   color: rgb(23,111,202);
   font-weight: bold;
 }
+
 a:hover{
   text-decoration: underline;
 }
 
 .navbar{
   background-color: #212529;
-
   padding: 12px 20px;
   display: flex;
   justify-content: center;
@@ -45,12 +46,13 @@ h1, h2, h3{
   font-family: 'Times New Roman', serif;
   text-align: center;
 }
+
 h1 {
   border: 5px solid black;
   margin-top: 20px;
   color: white;
   background-color: #343a40;
-    font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif;
   padding: 1rem 2rem;
   font-size: 2.2rem;
   width: fit-content;
@@ -58,6 +60,7 @@ h1 {
   margin-right: auto;
   font-weight: 600;
 }
+
 h2{
   background-color: #343a40;
   color: #f8f9fa;
